@@ -9,3 +9,5 @@ git commit -m "Déplacement de index.html à la racine"
 
 # Envoie la modification vers GitHub
 git push
+ git mv index_085040.html index.html
+ 
